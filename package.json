@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-lit",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  },
+  "scripts": {
+    "start": "parcel index.html --no-cache --open"
+  }
+}
